@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 # Hello, World!
 
-## I'm Zach Brady:
+I'm Zach Brady: full-stack software engineer, lifelong learner, avid cyclist, n00b w00dworker, and film bro. 
 
-### full-stack software engineer, lifelong learner, avid cyclist, n00b w00dworker, and film bro. 
-
-- 🔭 I’m currently working on a dating app. 
-- 🌱 I’m currently learning Rust.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostGres-%2320232a.svg?style=for-the-badge&logo=Postgresql&logoColor=%2361DAFB)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
