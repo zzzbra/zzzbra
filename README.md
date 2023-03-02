@@ -25,6 +25,8 @@ Some putative self-appellations:
 - n00b w00dworker, 
 - and film bro. 
 
+I've worked at organizations big and small, primarily on the FE, but also on the back, and almost always in the world of JS. 
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)
