@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Zach Brady: full-stack software engineer, lifelong learner, avid cyclist, n00b w00dworker, and film bro. 
+I'm Zach Brady: full-stack software engineer, lifelong learner, avid cyclist, n00b w00dworker, and film bro. 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
