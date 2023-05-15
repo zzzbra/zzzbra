@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # I'm Zach Brady.
 
-Some putative self-appellations:
+Some putative appellations:
 
 - full-stack software engineer, 
 - lifelong learner, 
